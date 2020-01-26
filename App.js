@@ -16,7 +16,7 @@ import {
   StatusBar,
 } from 'react-native';
 
-import Demo from './Demo';
+import Demo from './component/Demo';
 
 import {
   Colors,
